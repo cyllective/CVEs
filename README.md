@@ -3,6 +3,7 @@ This is a list of CVE's discovered by us.
 
 | CVE                                                                             | Product                    |
 |---------------------------------------------------------------------------------|----------------------------|
+| [CVE-2024-29182](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-29182) | Collabora Online           |
 | [CVE-2023-46806](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-46806) | TBA                        |
 | [CVE-2023-46807](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-46807) | TBA                        |
 | [CVE-2022-0656](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-0656)   | Various WordPress Plugins  |
