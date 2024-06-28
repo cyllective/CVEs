@@ -3,6 +3,7 @@ This is a list of CVE's discovered by us.
 
 | CVE                                                                             | Product                                                          |
 |---------------------------------------------------------------------------------|------------------------------------------------------------------|
+| [CVE-2024-4578](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-4578)   | Arista - Wireless Access Points                                  |
 | [CVE-2024-29182](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-29182) | Collabora Online                                                 |
 | [CVE-2023-46806](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-46806) | Ivanti Endpoint Manager Mobile                                   |
 | [CVE-2023-46807](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-46807) | Ivanti Endpoint Manager Mobile                                   |
@@ -60,46 +61,3 @@ This is a list of CVE's discovered by us.
 | [CVE-2022-2958](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-2958)   | WordPress plugin - badgeos                                       |
 | [CVE-2022-3254](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-3254)   | WordPress plugin - another-wordpress-classifieds-plugin          |
 | [CVE-2022-3912](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-3912)   | WordPress plugin - user-registration                             |
-| [CVE-2022-3915](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-3915)   | WordPress plugin - dokan-lite                                    |
-| [CVE-2022-3930](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-3930)   | WordPress plugin - directorist                                   |
-| [CVE-2022-3933](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-3933)   | WordPress plugin - essential-real-estate                         |
-| [CVE-2022-3934](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-3934)   | WordPress plugin - flatpm-wp                                     |
-| [CVE-2022-3982](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-3982)   | WordPress plugin - booking-calendar                              |
-| [CVE-2022-3989](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-3989)   | WordPress plugin - motors-car-dealership-classified-listings     |
-| [CVE-2022-4024](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4024)   | WordPress plugin - pie-register                                  |
-| [CVE-2022-4047](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4047)   | WordPress plugin - woo-refund-and-exchange-lite                  |
-| [CVE-2022-4049](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4049)   | WordPress plugin - wp-user                                       |
-| [CVE-2022-4050](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4050)   | WordPress plugin - joomsport-sports-league-results-management    |
-| [CVE-2022-4059](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4059)   | WordPress plugin - cryptocurrency-widgets-pack                   |
-| [CVE-2022-4060](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4060)   | WordPress plugin - wp-upg                                        |
-| [CVE-2022-4061](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4061)   | WordPress plugin - jobboardwp                                    |
-| [CVE-2022-4063](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4063)   | WordPress plugin - inpost-gallery                                |
-| [CVE-2022-4099](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4099)   | WordPress plugin - joy-of-text                                   |
-| [CVE-2022-4101](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4101)   | WordPress plugin - images-optimize-and-upload-cf7                |
-| [CVE-2022-4117](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4117)   | WordPress plugin - iws-geo-form-fields                           |
-| [CVE-2022-4118](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4118)   | WordPress plugin - woo-altcoin-payment-gateway                   |
-| [CVE-2022-4295](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4295)   | WordPress plugin - show-all-comments-in-one-page                 |
-| [CVE-2022-4297](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4297)   | WordPress plugin - wp-autosearch                                 |
-| [CVE-2022-4298](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4298)   | WordPress plugin - wholesale-market                              |
-| [CVE-2022-4301](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4301)   | WordPress plugin - sunshine-photo-cart                           |
-| [CVE-2022-4305](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4305)   | WordPress plugin - login-as-customer-or-user                     |
-| [CVE-2022-4306](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4306)   | WordPress plugin - panda-pods-repeater-field                     |
-| [CVE-2022-4307](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4307)   | WordPress plugin - pardakht-delkhah                              |
-| [CVE-2022-4320](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4320)   | WordPress plugin - connect-daily-web-calendar                    |
-| [CVE-2022-4321](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4321)   | WordPress plugin - pdf-generator-for-wp                          |
-| [CVE-2022-4325](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4325)   | WordPress plugin - post-status-notifier-lite                     |
-| [CVE-2022-4328](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4328)   | WordPress plugin - n-media-woocommerce-checkout-fields           |
-| [CVE-2022-4329](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4329)   | WordPress plugin - gm-woo-product-list-widget                    |
-| [CVE-2022-4369](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4369)   | WordPress plugin - wp-lister-for-amazon                          |
-| [CVE-2022-4374](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4374)   | WordPress plugin - bg-biblie-references                          |
-| [CVE-2022-4383](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4383)   | WordPress plugin - cbxpetition                                   |
-| [CVE-2022-4395](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4395)   | WordPress plugin - membership-for-woocommerce                    |
-| [CVE-2022-4445](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4445)   | WordPress plugin - fl3r-feelbox                                  |
-| [CVE-2022-4447](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-4447)   | WordPress plugin - fontsy                                        |
-| [CVE-2022-21705](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-21705) | OctoberCMS                                                       |
-| [CVE-2022-35944](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-35944) | OctoberCMS                                                       |
-| [CVE-2021-32633](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32633) | Zope/Plone                                                       |
-| [CVE-2021-33510](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-33510) | Zope/Plone                                                       |
-| [CVE-2021-33511](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-33511) | Zope/Plone                                                       |
-| [CVE-2019-12751](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12751) | Symantec Messaging Gateway                                       |
-| [CVE-2019-18377](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-18377) | Symantec Messaging Gateway                                       |
