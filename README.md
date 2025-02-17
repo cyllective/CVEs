@@ -3,6 +3,10 @@ This is a list of CVE's discovered by us.
 
 | CVE                                                                             | Product                                                          |
 |---------------------------------------------------------------------------------|------------------------------------------------------------------|
+| [CVE-2025-0422](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-0422)   | Cordaware bestinformed Web                                       |
+| [CVE-2025-0423](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-0423)   | Cordaware bestinformed Web                                       |
+| [CVE-2025-0424](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-0424)   | Cordaware bestinformed Web                                       |
+| [CVE-2025-0425](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-0425)   | Cordaware bestinformed Infoclient                                |
 | [CVE-2024-4578](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-4578)   | Arista - Wireless Access Points                                  |
 | [CVE-2024-29182](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2024-29182) | Collabora Online                                                 |
 | [CVE-2023-46806](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-46806) | Ivanti Endpoint Manager Mobile                                   |
